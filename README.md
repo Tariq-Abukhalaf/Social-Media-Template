@@ -1,4 +1,6 @@
-![Screenshot](scshot.png)
+![Screenshot1](scshot.png)
+
+![Screenshot2](scshot2.png)
 
 
 # Social-Media-Template 
