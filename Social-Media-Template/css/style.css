@@ -1,0 +1,57 @@
+:root {
+    --mycolor:#7d97a5;
+}
+
+body {
+    background-color: #f5f7f8;
+}
+
+
+li.nav-item {
+    padding: 0px 15px;
+    margin: 0px 5px;
+}
+a.nav-link {
+    color: white;
+}
+
+
+
+
+textarea {
+	resize: none;
+}
+
+
+.notify {
+    position: absolute;
+    left: 16px;
+    top: -15px;
+}
+
+
+#headingOne,#headingTwo,#headingThree {
+    background-color: var(--mycolor);
+}
+
+a.btn.text-left {
+    color: white;
+}
+
+i.fas.fa-bug {
+    font-size: 30px;
+}
+
+ul.interactions {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    justify-content: space-evenly;
+    background-color: var(--mycolor);
+}
+span.badge {
+    background-color: var(--mycolor);
+
+}
+
+
