@@ -8,3 +8,5 @@ I cloned this template using
 - Bootstrap v4.6.1 
 - Font Awesome Free 5.15.4 
 - custom css
+
+![Screenshot](scshot.png)
