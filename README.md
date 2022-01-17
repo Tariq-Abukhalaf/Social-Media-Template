@@ -1,3 +1,6 @@
+![Screenshot](scshot.png)
+
+
 # Social-Media-Template 
 clone of w3school Social Media Template 
 
@@ -9,4 +12,4 @@ I cloned this template using
 - Font Awesome Free 5.15.4 
 - custom css
 
-![Screenshot](scshot.png)
+
